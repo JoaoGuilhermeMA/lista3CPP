@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     float alturaChico = 1.50, alturaJuca = 1.10;
-    int ano = 1;
+    int ano = 0;
 
     while (alturaJuca <= alturaChico)
     {

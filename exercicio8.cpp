@@ -9,7 +9,7 @@ int main()
     cout << "Digite o numero da casa desejada: " << endl;
     cin >> numCasa;
 
-    for (int i = 1; i <= numCasa; i++)
+    for (int i = 1; i < numCasa; i++)
     {
         valorCasa *= 2;
     }

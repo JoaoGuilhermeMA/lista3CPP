@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int numCasa, valorCasa=1; //64 casas || a cada casa dobra o valor
+    int numCasa, valorCasa=1;
 
     cout << "Digite o numero da casa desejada: " << endl;
     cin >> numCasa;

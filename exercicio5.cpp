@@ -1,12 +1,7 @@
 #include  <iostream>
+
 using namespace std;
 
-/*
-Faça um algoritmo que leia as matrículas e as respectivas médias finais de vários alunos de uma turma,
-até que seja digitada uma média negativa. Ao final, o algoritmo deve mostrar a quantidade de alunos
-aprovados (média >=7), reprovados (média <3) ou em recuperação. Além disso, o algoritmo deve mostrar
-as matrículas de todos os alunos que obtiveram médias superiores a 9.
-*/
 int main()
 {
     int matricula = 0, qntdAprovado = 0, qntdReprovado = 0, qntdRecuperacao = 0, qntdSuperior = 0;

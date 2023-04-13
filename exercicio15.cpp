@@ -11,8 +11,7 @@ int main()
         cout << "Escreva a identidade do funcionario: " << endl;
         cin >> identidade;
 
-        cout << "Digite a quantidade de horas trabalhadas do funcionario <<"
-             << endl;
+        cout << "Digite a quantidade de horas trabalhadas do funcionario " << endl;
         cin >> horasTrabalhadas;
 
         do

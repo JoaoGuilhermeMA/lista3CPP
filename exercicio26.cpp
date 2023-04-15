@@ -1,14 +1,7 @@
 #include <iostream>
 
 using namespace std;
-/*
-Foi feita uma pesquisa entre os habitantes de uma região e coletados os dados de sexo (m=masculino,
-f=feminino) e altura de cada pessoa. Faça um programa que leia os dados de várias pessoas diferentes e
-informe:
-- A altura da mulher mais baixa; - A média de altura dos homens;
-- A média de altura da população.
-O algoritmo deve encerrar quando for digitado o valor “X” para altura.
-*/
+
 int main()
 {
     char sexo, finaliza='S';

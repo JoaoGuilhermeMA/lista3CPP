@@ -1,18 +1,29 @@
 # Para decompor um numero
-2222 % 10 = 2 \n
-222 \n
+2222 % 10 = 2
 
-enquanto numero > 0 faça \n
-    resto = numero % 10 ->  extrai o ultimo digito \n
-    numero /= 10; ->  remove o ultimo digito do numero \n
-fim \n
+222
 
-2222 / 10 = 2 \n
-2222 / 100 = 22 \n
-2222 / 1000 = 222 \n
+enquanto numero > 0 faça
+
+    resto = numero % 10 ->  extrai o ultimo digito
+
+    numero /= 10; ->  remove o ultimo digito do numero
+
+fim
+
+2222 / 10 = 2
+
+2222 / 100 = 22
+
+2222 / 1000 = 222
+
 -----------------------------------
 # para achar o inverso de um numero
-enquanto "numero" != "0" faça \n
-    reverso = reverso * 10 + numero % 10; \n
-    copia /= 10; \n
-fim \n
+
+enquanto "numero" != "0" faça
+
+    reverso = reverso * 10 + numero % 10;
+
+    copia /= 10;
+
+fim

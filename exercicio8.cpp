@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-    int numCasa, valorCasa=1;
+    int numCasa;
+    double valorCasa = 1;
 
     cout << "Digite o numero da casa desejada: " << endl;
     cin >> numCasa;

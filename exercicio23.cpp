@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int n, cont = 0, num = 12;
      bool primo;
-    cout << "Digite o valor de n: ";
+    cout << "Digite a quantidade de numero depois do 11 ";
     cin >> n;
 
     while (cont < n) {
